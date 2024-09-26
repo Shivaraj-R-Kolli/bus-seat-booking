@@ -1,0 +1,23 @@
+.seats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .seats div {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000;
+  }
+  
+  .available {
+    background-color: lightgreen;
+  }
+  
+  .booked {
+    background-color: lightcoral;
+  }
+  

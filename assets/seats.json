@@ -1,0 +1,15 @@
+[
+    { "seat": 1, "status": "available", "row": 1, "position": 1 },
+    { "seat": 2, "status": "booked", "row": 1, "position": 2 },
+    { "seat": 3, "status": "available", "row": 1, "position": 3 },
+    { "seat": 4, "status": "available", "row": 1, "position": 4 },
+    { "seat": 5, "status": "available", "row": 1, "position": 5 },
+    { "seat": 6, "status": "available", "row": 1, "position": 6 },
+    { "seat": 7, "status": "available", "row": 1, "position": 7 },
+    { "seat": 8, "status": "available", "row": 2, "position": 1 },
+    { "seat": 9, "status": "available", "row": 2, "position": 2 },
+    { "seat": 10, "status": "available", "row": 2, "position": 3 },
+    // Continue adding all seats up to 80
+    { "seat": 80, "status": "available", "row": 12, "position": 3 }
+  ]
+  
